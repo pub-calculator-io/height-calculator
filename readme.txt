@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Based on a linear regression study, this free growth calculator estimates a child's growth as an adult in the future. It can also be converted between several height units.
 
-== Description ==
-
-Based on a linear regression study, this free growth calculator estimates a child's growth as an adult in the future. It can also be converted between several height units.
-
 [https://www.calculator.io/height-calculator/](https://www.calculator.io/height-calculator/)
 
-__Height Calculator Shortcode__
+== Usage ==
+
+Add the Height Calculator shortcode to your page, post or sidebar:
 
 `[ci_height_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Height Calculator to appear:
 
-1. Upload the /ci_height_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Height Calculator](https://www.calculator.io/height-calculator/ "Height Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Height Calculator Usage ==
-
-* Add the shortcode `[ci_height_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_height_calculator(); ?>` to your template where you would like the Height Calculator to appear.
+`<?php display_ci_height_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Height Calculator Input Form.
 2. The Height Calculator Calculation Results.
 
-== Libraries used in Height Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Height Calculator /ci_height_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Height Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Height Calculator
