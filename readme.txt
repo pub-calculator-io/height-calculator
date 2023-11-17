@@ -1,6 +1,6 @@
 === Height Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: height calculator, calculate height, human height, height prediction, height estimation, height growth, height measurement, height converter, adult height, child growth, growth chart
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
