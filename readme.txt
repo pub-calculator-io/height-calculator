@@ -1,4 +1,4 @@
-=== Height Calculator ===
+=== Height Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: height calculator, calculate height, human height, height prediction, height estimation, height growth, height measurement, height converter, adult height, child growth, growth chart
 Requires at least: 5.0
