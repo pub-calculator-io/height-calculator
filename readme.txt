@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Height Calculat
 == Screenshots ==
 
 1. The Height Calculator Input Form.
-2. The Height Calculator Calculation Results.
 
 == Installation ==
 

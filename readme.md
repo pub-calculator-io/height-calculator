@@ -3,7 +3,6 @@
 Based on a linear regression study, this free growth calculator estimates a child's growth as an adult in the future. It can also be converted between several height units.
 
 ![Height Calculator Input Form](/assets/images/screenshot-1.png "Height Calculator Input Form")
-![Height Calculator Calculation Results](/assets/images/screenshot-2.png "Height Calculator Calculation Results")
 
 ## Installation
 

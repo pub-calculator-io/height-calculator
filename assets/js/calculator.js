@@ -210,7 +210,9 @@ function kgToPounds(kg){
 
 function gToFeetAndInches(strInches){
 	var strReturnValue = '';
-	strReturnValue = (strInches - (parseInt(strInches) % 12)) / 12 + ' feet ' + (parseInt(strInches) % 12) + ' inch(es) ';
+	let feet = (strInches - (parseInt(strInches) % 12)) / 12;
+	let inches = (parseInt(strInches) % 12);
+	strReturnValue = plural(feet, 'feet:foot:feet:feet:feet:feet') + ' ' + plural(inches, 'inches:inch:inches:inches:inches:inches');
 	return strReturnValue;
 }
 
