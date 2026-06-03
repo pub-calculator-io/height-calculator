@@ -1,6 +1,6 @@
 # Height Calculator Widget for WordPress
 
-Based on a linear regression study, this free growth calculator estimates a child's growth as an adult in the future. It can also be converted between several height units.
+Predict your child's future adult height with our free Height Calculator. Based on scientific data, it accurately estimates growth and converts height units.
 
 ![Height Calculator Input Form](/assets/images/screenshot-1.png "Height Calculator Input Form")
 
@@ -11,8 +11,8 @@ Based on a linear regression study, this free growth calculator estimates a chil
 3. Activate the [Height Calculator](https://www.calculator.io/height-calculator/ "Height Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_height_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_height_calculator(); ?>` to your template where you would like the Height Calculator to appear.
+* Add the shortcode `[calcio_height_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_height_calculator(); ?>` to your template where you would like the Height Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
